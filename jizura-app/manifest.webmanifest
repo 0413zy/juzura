@@ -1,0 +1,18 @@
+{
+  "name": "JIZURA 歌词动态视频制作",
+  "short_name": "JIZURA",
+  "description": "输入歌词，自动切分镜头，选择主题风格，生成动态歌词视频并可导出。",
+  "lang": "zh-Hans",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0e13",
+  "theme_color": "#0c0e13",
+  "categories": ["creative", "video", "utilities"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
